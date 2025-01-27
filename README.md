@@ -4,6 +4,8 @@
 </p>
 <h3 align="center">A Data Scientist and a physicist ☄, a master of learning and a humble student of mastering📚.</h3>
 
+<h4 align="indent">I am a data scientist with a physics degree, equipped with a strong foundation in critical thinking problem-solving, and a passion for uncovering insights through data. My background in physics has provided me with a deep understanding of complex systems and a practical perspective on their real-world applications.</h4>
+
 - 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Physics and Mathematics**
