@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julián Adarme</h1>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Large_Magellanic_Cloud_rendered_from_Gaia_EDR3.png/800px-Large_Magellanic_Cloud_rendered_from_Gaia_EDR3.png" alt="Large Magellanic Cloud" width="600">
+  <img src="https://github.com/JulianAdarme/LMC/blob/main/Large_Magellanic_Cloud_rendered_from_Gaia_EDR3.png" alt="Large Magellanic Cloud" width="850" height="350">
 </p>
 <h3 align="center">A Data Scientist and a physicist ☄, a master of learning and a humble student of mastering📚.</h3>
 
