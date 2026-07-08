@@ -7,9 +7,9 @@ Physics Graduate | Data Scientist | Machine Learning Enthusiast
 <p align="center">
   <img src="https://github.com/JulianAdarme/LMC/blob/main/Large_Magellanic_Cloud_rendered_from_Gaia_EDR3.png" alt="Large Magellanic Cloud" width="700" height="350">
 </p>
-<h3 align="center">Physics graduate transitioning into Data Science. Passionate about machine learning, statistics, and solving real-world problems with data. Currently building predictive models and continuously expanding my skills in AI and analytics.</h3>
+<h3 align="center">Passionate about machine learning, statistics, and solving real-world problems with data.</h3>
 
-<h4 align="indent">My background in Physics has given me a strong foundation in mathematics, statistics, and analytical thinking. I enjoy transforming complex data into meaningful insights through machine learning and data visualization.</h4>
+<h4 align="indent">My background in Physics has provided me with a strong foundation in mathematics, statistics, and analytical thinking. Today, I apply those skills to develop machine learning solutions, analyze complex datasets, and create data-driven insights that support better decision-making.</h4>
 
 📚 Currently learning
 
