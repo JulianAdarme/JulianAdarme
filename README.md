@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julián Adarme</h1>
+
+<h3 align="center">
+Physics Graduate | Data Scientist | Machine Learning Enthusiast
+</h3>
+
 <p align="center">
   <img src="https://github.com/JulianAdarme/LMC/blob/main/Large_Magellanic_Cloud_rendered_from_Gaia_EDR3.png" alt="Large Magellanic Cloud" width="850" height="350">
 </p>
