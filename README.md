@@ -5,7 +5,7 @@ Physics Graduate | Data Scientist | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://github.com/JulianAdarme/LMC/blob/main/Large_Magellanic_Cloud_rendered_from_Gaia_EDR3.png" alt="Large Magellanic Cloud" width="850" height="350">
+  <img src="https://github.com/JulianAdarme/LMC/blob/main/Large_Magellanic_Cloud_rendered_from_Gaia_EDR3.png" alt="Large Magellanic Cloud" width="700" height="350">
 </p>
 <h3 align="center">Physics graduate transitioning into Data Science. Passionate about machine learning, statistics, and solving real-world problems with data. Currently building predictive models and continuously expanding my skills in AI and analytics.</h3>
 
