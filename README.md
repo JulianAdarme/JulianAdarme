@@ -9,7 +9,7 @@ Physics Graduate | Data Scientist | Machine Learning Enthusiast
 </p>
 <h3 align="center">Passionate about machine learning, statistics, and solving real-world problems with data.</h3>
 
-<h4 align="indent">My background in Physics has provided me with a strong foundation in mathematics, statistics, and analytical thinking. Today, I apply those skills to develop machine learning solutions, analyze complex datasets, and create data-driven insights that support better decision-making.</h4>
+<h4 align="indent">My background in Physics has provided me with a strong foundation in mathematics, statistics, and analytical thinking. I apply those skills to develop machine learning solutions, analyze complex datasets, and create data-driven insights that support better decision-making.</h4>
 
 📚 Currently learning
 
