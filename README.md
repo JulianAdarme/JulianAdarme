@@ -19,9 +19,9 @@
 • Mathematics
 • Data Analytics
 
-- 📫 How to reach me **julian.rod0062@gmail.com**
+How to reach me **julian.rod0062@gmail.com**
 
-- ⚡ Fun fact **I love board games but I'm bad at them**
+Fun fact **I love board games but I'm bad at them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
