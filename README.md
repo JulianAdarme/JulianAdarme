@@ -2,13 +2,22 @@
 <p align="center">
   <img src="https://github.com/JulianAdarme/LMC/blob/main/Large_Magellanic_Cloud_rendered_from_Gaia_EDR3.png" alt="Large Magellanic Cloud" width="850" height="350">
 </p>
-<h3 align="center">A Data Scientist and a physicist ☄, a master of learning and a humble student of mastering📚.</h3>
+<h3 align="center">Physics graduate transitioning into Data Science. Passionate about machine learning, statistics, and solving real-world problems with data. Currently building predictive models and continuously expanding my skills in AI and analytics.</h3>
 
-<h4 align="indent">I am a data scientist with a physics degree, equipped with a strong foundation in critical thinking problem-solving, and a passion for uncovering insights through data. My background in physics has provided me with a deep understanding of complex systems and a practical perspective on their real-world applications.</h4>
+<h4 align="indent">My background in Physics has given me a strong foundation in mathematics, statistics, and analytical thinking. I enjoy transforming complex data into meaningful insights through machine learning and data visualization.</h4>
 
-- 🌱 I’m currently learning **Deep Learning**
+📚 Currently learning
 
-- 💬 Ask me about **Physics and Mathematics**
+• Deep Learning
+• AWS for Data Science
+• MLOps
+
+💬 Ask me about
+
+• Machine Learning
+• Physics
+• Mathematics
+• Data Analytics
 
 - 📫 How to reach me **julian.rod0062@gmail.com**
 
