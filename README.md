@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julián Adarme</h1>
 
 <h3 align="center">
-Physics Graduate | Data Scientist | Machine Learning Enthusiast
+Physics Graduate | Junior Data Scientist | Machine Learning | Python | SQL
 </h3>
 
 <p align="center">
