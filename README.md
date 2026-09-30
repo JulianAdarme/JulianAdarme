@@ -7,22 +7,17 @@ Physics Graduate | Junior Data Scientist | Machine Learning | Python | SQL
 <p align="center">
   <img src="https://github.com/JulianAdarme/LMC/blob/main/Large_Magellanic_Cloud_rendered_from_Gaia_EDR3.png" alt="Large Magellanic Cloud" width="700" height="350">
 </p>
-<h3 align="center">Passionate about machine learning, statistics, and solving real-world problems with data.</h3>
+<h3 align="center">Physics-trained Data Scientist focused on machine learning, statistical analysis, and data-driven problem solving.</h3>
 
-<h4 align="indent">My background in Physics has provided me with a strong foundation in mathematics, statistics, and analytical thinking. I apply those skills to develop machine learning solutions, analyze complex datasets, and create data-driven insights that support better decision-making.</h4>
+<h4 align="indent">With a background in Physics, I bring a strong foundation in mathematics, statistics, and analytical problem-solving. I use Python and SQL to explore data, engineer features, build and evaluate machine learning models, and translate analytical results into actionable insights.</h4>
 
 📚 Currently learning
 
-• Deep Learning
-• AWS for Data Science
-• MLOps
+• AWS for Data Science • MLOps • Statistical Inference
 
 💬 Ask me about
 
-• Machine Learning
-• Physics
-• Mathematics
-• Data Analytics
+• Credit Risk Modeling • Customer Churn • Machine Learning • Statistical Analysis
 
 How to reach me **julian.rod0062@gmail.com**
 
@@ -34,4 +29,55 @@ Fun fact **I love board games but I'm bad at them**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p align="left">
+
+<!-- Python -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="python" width="40" height="40"/>
+</a>
+
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+       alt="pandas" width="40" height="40"/>
+</a>
+
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+       alt="numpy" width="40" height="40"/>
+</a>
+
+<!-- Scikit-learn -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+       alt="scikit-learn" width="40" height="40"/>
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+       alt="mysql" width="40" height="40"/>
+</a>
+
+<!-- Seaborn -->
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+       alt="seaborn" width="40" height="40"/>
+</a>
+
+<!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"
+       alt="Power BI" width="40" height="40"/>
+</a>
+
+<!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+       alt="aws" width="40" height="40"/>
+</a>
+
+</p>
